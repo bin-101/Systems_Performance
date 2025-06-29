@@ -38,4 +38,6 @@ p717
 - pref trace
 p719
 - perfのサブコマンドのドキュメントはどこにあるか
+- https://wiki.kernel.org
+- perf Examples (gregg)
 
